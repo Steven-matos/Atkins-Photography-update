@@ -95,7 +95,7 @@ footer h2 {
 /* Bio  */
 
 .Bio {
-  padding: 10px;
+  padding: 50px;
   font-size: 40px;
 }
 
@@ -113,6 +113,8 @@ footer h2 {
 .Portfolio {
   text-decoration: underline;
   font-size: 40px;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
 .container {
@@ -228,7 +230,7 @@ ul.icons {
   }
 
   .bio-p {
-    padding: 0 150px;
+    padding-top: 80px;
   }
 
 
