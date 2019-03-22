@@ -111,7 +111,7 @@ footer h2 {
 /* Portfolio */
 
 .Portfolio {
-  text-decoration: underline;
+  text-decoration: none;
   font-size: 40px;
   padding-top: 50px;
   padding-bottom: 50px;
@@ -202,7 +202,6 @@ ul.icons {
     font-weight: normal;
     text-transform: none !important;
     font-size: 60px;
-    padding-left: 15px;
   }
 
   .icon > .label {
